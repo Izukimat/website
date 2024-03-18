@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is the blog page of my website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog post test\n\n\ntest blog post\n\n\n\nTest\n\n\n\nthis page is a test post of the blog\n\n\n\n\n\nMar 18, 2024\n\n\nIzuki Matsuba\n\n\n\n\n\n\n\n\n\n\n\n\nBlog post test2\n\n\ntest2 blog post\n\n\n\nTest\n\n\n\nthis page is a test2 post of the blog\n\n\n\n\n\nMar 18, 2024\n\n\nIzuki Matsuba\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Izuki Matsuba",
+    "section": "",
+    "text": "This is the landing page of my website"
+  },
+  {
+    "objectID": "posts/2024-03-18-test/index.html",
+    "href": "posts/2024-03-18-test/index.html",
+    "title": "Blog post test",
+    "section": "",
+    "text": "No content yet"
+  },
+  {
+    "objectID": "posts/2024-03-18-test2/index.html",
+    "href": "posts/2024-03-18-test2/index.html",
+    "title": "Blog post test2",
+    "section": "",
+    "text": "This is the second test content"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
