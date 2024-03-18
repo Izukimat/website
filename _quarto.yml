@@ -9,13 +9,9 @@ website:
         text: Home
       - about.qmd
       - blog.qmd
-
+  google-analytics: "G-TXS3Q9H2N5"
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-website:
-  google-analytics: "G-TXS3Q9H2N5"
-

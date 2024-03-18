@@ -2,7 +2,7 @@
 .DS_Store
 .Rhistoryt
 .Rhistory
-/.quarto/
+.quarto/
 /_*.local
 /.venv/
 /.condaenv/

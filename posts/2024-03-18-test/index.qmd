@@ -4,8 +4,7 @@ subtitle: test blog post
 description:
   this page is a test post of the blog
 categories:
-  - Features
-  - Authoring
+  - Test
 author: Izuki Matsuba
 date: 2024/03/18
 

@@ -1,0 +1,13 @@
+---
+title: Blog post test2
+subtitle: test2 blog post
+description:
+  this page is a test2 post of the blog
+categories:
+  - Test
+author: Izuki Matsuba
+date: 2024/03/18
+
+---
+
+This is the second test content
