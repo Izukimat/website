@@ -1,0 +1,14 @@
+---
+title: Blog post test
+subtitle: test blog post
+description:
+  this page is a test post of the blog
+categories:
+  - Features
+  - Authoring
+author: Izuki Matsuba
+date: 2024/03/18
+
+---
+
+No content yet
